@@ -1,0 +1,96 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: subhamc88's blog
+theme: 'PaperMod'
+
+# Code Highlighting
+markup:
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    style: catppuccin-mocha
+    tabWidth: 4
+
+# Site Parameters
+params:
+  homeInfoParams:
+    Title: "Hello Stranger"
+    Content: |
+      Welcome to my space! Here you'll discover fascinating content and have the opportunity to learn and grow, regardless of your current skill level. Dive in and explore various topics that spark your interest.
+  socialIcons:
+    - name: github
+      url: "https://www.github.com/subhamc88"
+    - name: instagram
+      url: "https://instagram.com/subhamc_88?igsh=M2Njaml0bDZlbmk2&utm_source=qr"
+    - name: email
+      url: "mailto:subham020304@gmail.com"
+
+  # Image
+  cover:
+    linkFullImages: true
+
+  # Search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10
+    keys: ["title", "permalink"]
+
+  # Table of Contents
+  ShowToc: true
+  TocOpen: false
+
+  # Post changes suggestion link
+  editPost:
+    URL: "https://github.com/subhamc88/blog"
+    Text: "Suggest Changes"
+    appendFilePath: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  comments: true
+  author: subhamc88
+  email: subham020304@gmail.com
+  name: subhamc88
+
+
+# Search And RSS functioning
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+  section:
+    - HTML
+    - RSS
+  term:
+    - HTML
+copyright: © 2023 ABC Widgets, Inc.
+
+# Navigation Menus
+menu:
+  main:
+
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 40
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 50
