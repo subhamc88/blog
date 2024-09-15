@@ -1,7 +1,7 @@
 baseURL: https://example.org/
 languageCode: en-us
 title: subhamc88's blog
-theme: 'PaperMod'
+theme: 'papermod'
 
 # Code Highlighting
 markup:
