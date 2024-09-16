@@ -4,7 +4,7 @@ description = "Explore the differences between Command-Line Interface (CLI), Tex
 date = 2024-09-16T17:00:00+05:30
 draft = false
 [cover]
-image = "/images/computer/interface.jpg"
+image = "images/computer/interface.jpg"
 alt = "Computer interface"
 +++
 
