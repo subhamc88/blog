@@ -81,7 +81,6 @@ It’s particularly useful for tasks like file management, system monitoring, an
 
 ![GUI FileManager](/images/computer/gui-filemanager.png "GUI FileManager")
 
-### Overview of TUI
 ### Overview of GUI
 
 The Graphical User Interface (GUI) is the most familiar and widely used interface.
