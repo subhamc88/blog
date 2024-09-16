@@ -52,6 +52,7 @@ It's especially useful for experienced users comfortable with command syntax who
 
 ## What is a Text-Based User Interface (TUI)?
 
+
 ![TUI File Manager](tui-filemanager.png "TUI File Manager")
 
 ### Overview of TUI
