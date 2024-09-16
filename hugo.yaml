@@ -1,7 +1,11 @@
-baseURL: https://example.org/
+baseURL: https://subhamc88.github.io/blog
 languageCode: en-us
 title: subhamc88's blog
 theme: 'papermod'
+
+services:
+  rss:
+    limit: 10
 
 markup:
 
@@ -86,6 +90,8 @@ params:
       url: "https://instagram.com/subhamc_88?igsh=M2Njaml0bDZlbmk2&utm_source=qr"
     - name: email
       url: "mailto:subham020304@gmail.com"
+    - name: rss
+      url: "https://subhamc88.github.io/blog/index.xml"
 
       # Image
   cover:
@@ -117,6 +123,7 @@ params:
   author: subhamc88
   email: subham020304@gmail.com
   name: subhamc88
+  rss: true
 
 
   # Search And RSS functioning
@@ -130,7 +137,8 @@ outputs:
     - RSS
   term:
     - HTML
-copyright: © 2023 ABC Widgets, Inc.
+    - RSS
+copyright: © 2023 subhamc88, Inc.
 
 # Navigation Menus
 menu:
