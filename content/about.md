@@ -32,3 +32,4 @@ Thank you for visiting! I hope you find the content here both informative and in
 - Check out my [Github Profile](https://www.github.com/subhamc88) for more on my projects and contributions.
 - Follow me on [Instagram](https://instagram.com/subhamc_88?igsh=M2Njaml0bDZlbmk2&utm_source=qr) for updates and snapshots of my hobbies and interests.
 - Contact me via [Email](mailto:subham020304@gmail.com) for inquiries, collaborations, or just to say hello.
+- Subscribe to this blog's [rss feeds](https://subhamc88.github.io/blog/index.xml) for updates on the latest blogs. (Copy this link and add it to your rss feed reader.)
