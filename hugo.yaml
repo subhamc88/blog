@@ -3,15 +3,17 @@ languageCode: en-us
 title: subhamc88's blog
 theme: 'papermod'
 
-# Code Highlighting
 markup:
+
+  # Code Highlighting
   highlight:
     anchorLineNos: false
     codeFences: true
     style: catppuccin-mocha
     tabWidth: 4
+  defaultMarkdownHandler: pandoc
 
-# Site Parameters
+  # Site Parameters
 params:
   homeInfoParams:
     Title: "Hello Stranger"
@@ -25,11 +27,11 @@ params:
     - name: email
       url: "mailto:subham020304@gmail.com"
 
-  # Image
+      # Image
   cover:
     linkFullImages: true
 
-  # Search
+    # Search
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -40,7 +42,7 @@ params:
     limit: 10
     keys: ["title", "permalink"]
 
-  # Table of Contents
+    # Table of Contents
   ShowToc: true
   TocOpen: false
 
@@ -57,7 +59,7 @@ params:
   name: subhamc88
 
 
-# Search And RSS functioning
+  # Search And RSS functioning
 outputs:
   home:
     - HTML
