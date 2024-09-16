@@ -90,6 +90,8 @@ params:
       url: "https://instagram.com/subhamc_88?igsh=M2Njaml0bDZlbmk2&utm_source=qr"
     - name: email
       url: "mailto:subham020304@gmail.com"
+    - name: rss
+      url: "https://subhamc88.github.io/blog/index.xml"
 
       # Image
   cover:
