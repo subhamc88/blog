@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://subhamc88.github.io/blog
 languageCode: en-us
 title: subhamc88's blog
 theme: 'papermod'
@@ -117,6 +117,7 @@ params:
   author: subhamc88
   email: subham020304@gmail.com
   name: subhamc88
+  rss: true
 
 
   # Search And RSS functioning
