@@ -6,6 +6,32 @@ draft = false
 [cover]
 image = "images/computer/interface.jpg"
 alt = "Computer interface"
+
+categories = [
+    "Technology",
+    "User Interfaces",
+    "CLI",
+    "TUI",
+    "GUI",
+    "Software Development",
+    "Tech Tutorials",
+    "Productivity Tools",
+    "Computer Science"
+]
+tags = [
+    "CLI",
+    "TUI",
+    "GUI",
+    "User Interfaces",
+    "Command-Line Interface",
+    "Text-Based User Interface",
+    "Graphical User Interface",
+    "Technology",
+    "Computing",
+    "Productivity",
+    "Tech Tips",
+    "Software"
+]
 +++
 
 ## Introduction
@@ -51,7 +77,6 @@ CLI is best for tasks requiring precision and speed, such as system administrati
 It's especially useful for experienced users comfortable with command syntax who prefer working without graphical distractions.
 
 ## What is a Text-Based User Interface (TUI)?
-
 
 ![TUI File Manager](tui-filemanager.png "TUI File Manager")
 
