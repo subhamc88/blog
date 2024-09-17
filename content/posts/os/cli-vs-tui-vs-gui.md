@@ -6,6 +6,32 @@ draft = false
 [cover]
 image = "images/computer/interface.jpg"
 alt = "Computer interface"
+
+categories = [
+    "Technology",
+    "User Interfaces",
+    "CLI",
+    "TUI",
+    "GUI",
+    "Software Development",
+    "Tech Tutorials",
+    "Productivity Tools",
+    "Computer Science"
+]
+tags = [
+    "CLI",
+    "TUI",
+    "GUI",
+    "User Interfaces",
+    "Command-Line Interface",
+    "Text-Based User Interface",
+    "Graphical User Interface",
+    "Technology",
+    "Computing",
+    "Productivity",
+    "Tech Tips",
+    "Software"
+]
 +++
 
 ## Introduction
