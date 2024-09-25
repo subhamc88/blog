@@ -1,7 +1,7 @@
 +++
 title = 'Discovering Terminals'
 description = "A Beginner's Guide to What They Are and How They Power Your Computer"
-date = 2024-09-25T09:46:59+05:30
+date = 2024-09-25T07:32:59+05:30
 draft = false
 categories = [
     "Technology",
