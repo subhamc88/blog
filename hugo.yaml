@@ -1,6 +1,6 @@
 baseURL: https://subhamc88.github.io/blog
 languageCode: en-us
-title: subhamc88's blog
+title: subhamc88's Blog
 theme: 'papermod'
 
 services:
@@ -8,8 +8,6 @@ services:
     limit: 10
 
 markup:
-
-  # Code Highlighting
   highlight:
     anchorLineNos: false
     codeFences: true
@@ -124,7 +122,9 @@ params:
   email: subham020304@gmail.com
   name: subhamc88
   rss: true
-
+  seo:
+    description: "A blog about programming, tech trends, and development tools by subhamc88."
+    keywords: "programming, tech, development, tutorials, coding, linux, networking"
 
   # Search And RSS functioning
 outputs:
@@ -138,12 +138,11 @@ outputs:
   term:
     - HTML
     - RSS
-copyright: © 2023 subhamc88, Inc.
+copyright: © 2024 subhamc88, Inc.
 
 # Navigation Menus
 menu:
   main:
-
     - identifier: search
       name: Search
       url: /search/
