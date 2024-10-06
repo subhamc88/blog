@@ -3,32 +3,11 @@ title = "Understanding Your Options: CLI, TUI, and GUI Explained"
 description = "Explore the differences between Command-Line Interface (CLI), Text-Based User Interface (TUI), and Graphical User Interface (GUI) to understand their unique features and benefits."
 date = 2024-09-16T17:00:00+05:30
 draft = false
-categories = [
-    "Technology",
-    "User Interfaces",
-    "Software Development",
-    "Tech Tutorials",
-    "Productivity Tools",
-    "Computer Science"
-]
-tags = [
-    "CLI",
-    "TUI",
-    "GUI",
-    "User Interfaces",
-    "Command-Line Interface",
-    "Text-Based User Interface",
-    "Graphical User Interface",
-    "Technology",
-    "Computing",
-    "Productivity",
-    "Tech Tips",
-    "Software"
-]
+categories = ["Technology","User Interfaces","Software Development","Tech Tutorials","Productivity Tools","Computer Science"]
+tags = ["CLI","TUI","GUI","User Interfaces","Command-Line Interface","Text-Based User Interface","Graphical User Interface","Technology","Computing","Productivity","Tech Tips","Software"]
 [cover]
 image = "images/computer/interface.jpg"
 alt = "Computer interface"
-]
 +++
 
 ## Introduction
