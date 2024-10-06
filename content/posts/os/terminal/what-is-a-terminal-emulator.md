@@ -4,24 +4,17 @@ description = "A Beginner's Guide to What They Are and How They Power Your Compu
 date = 2024-09-25T07:32:59+05:30
 draft = false
 categories = [
-    "Technology",
     "User Interfaces",
-    "CLI",
-    "TUI",
     "Software Development",
     "Productivity Tools",
+    "Tech Tips",
     "Computer Science"
 ]
 tags = [
+    "Terminal",
     "CLI",
-    "TUI",
-    "GUI",
-    "User Interfaces",
-    "Command-Line Interface",
-    "Text-Based User Interface",
-    "Graphical User Interface",
-    "Technology",
-    "Computing",
+    "Systems",
+    "Tools",
     "Productivity",
     "Tech Tips",
     "Software"
@@ -98,7 +91,7 @@ Here's a brief overview of their evolution:
 
 4. **Settings Management**: Allows users to customize preferences including themes, fonts, key bindings and behaviour of the terminal emulator.
 
-## Architecture of Terminal emulator:
+## Architecture of Terminal emulator
 
 ```markdown
 
@@ -157,6 +150,7 @@ Here's how the process works:
 Terminal emulators are powerful tools that serve a variety of purposes in computing. Here are some common use cases:
 
 ### File Management
+
 Terminal emulators allow users to navigate their file system efficiently. With simple commands.
 
 - Listing files and folders present inside a folder.
@@ -165,6 +159,7 @@ Terminal emulators allow users to navigate their file system efficiently. With s
 - Create or Delete files and directories.
 
 ### System Administration
+
 For system administrators, terminal emulators are essential for managing servers and systems remotely. Tasks include:
 
 - Installing software using package managers (like apt, yum, or brew) and updating software and system without any hassel.
@@ -172,6 +167,7 @@ For system administrators, terminal emulators are essential for managing servers
 - Managing users and permissions for the operating system.
 
 ### Programming and Development
+
 Developers rely on terminal emulators for a variety of programming tasks:
 
 - Compiling code and building program binaries (.exe or .sh files which run directly in os).
@@ -179,39 +175,47 @@ Developers rely on terminal emulators for a variety of programming tasks:
 - Using tools like Git from the terminal makes version control a breeze, letting you manage changes with a few keystrokes instead of wrestling with drag-and-drop interfaces.
 
 ### Networking and Remote Access
+
 Terminal emulators can be used to manage network connections and access remote systems:
 
 - SSH (Secure Shell) Connections: Using ssh to securely connect to remote servers for management or development.
 - File Transfers using (FTP/NTP/Samba): Using tools like scp or rsync to transfer files between local and remote systems.
 
 ### Automation and Scripting
+
 Repetitive tasks can be automated using shell scripts, which can be written and executed directly in the terminal:
 
 - Task Scheduling: Using cron to schedule scripts to run at specific times.
 - Batch Processing: Automating data processing or file manipulation tasks using shell scripts or scripts written in other languages.
-
 
 ## Advantages of Using Terminals
 
 Using a terminal emulator offers numerous benefits that can enhance your computing experience. Here are some key advantages:
 
 ### Speed and Efficiency
+
 - **Quick Commands:** Entering commands via keyboard is often faster than navigating through menus. Power users can accomplish tasks in seconds, streamlining workflows significantly.
 
 ### Automation
+
 - **Scripting:** Terminals allow you to create and run scripts to automate repetitive tasks, saving time and reducing the chance of errors. A simple script can handle complex sequences of commands with ease.
 
 ### Resource Light
+
 - **Low Resource Usage:** Terminal emulators consume far fewer system resources than graphical interfaces, making them ideal for older hardware or when running resource-intensive applications.
 
 ### Remote Access
+
 - **SSH and Remote Management:** Terminals enable secure connections to remote servers, allowing you to manage systems from anywhere without needing a graphical interface.
 
 ### Powerful Control
+
 - **Advanced Functionality:** Terminals provide access to powerful commands and tools that may not be available in graphical applications, allowing for greater flexibility and control over your system.
 
 ### Customization
+
 - **Personalized Environment:** You can customize your terminal's appearance and behavior to fit your preferences, from changing colors and fonts to setting up key bindings that suit your workflow.
 
 ### Learning and Development
+
 - **Skill Building:** Using a terminal encourages users to learn more about their operating system and command-line tools, enhancing technical skills that are valuable in various fields.
