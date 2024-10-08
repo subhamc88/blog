@@ -3,7 +3,7 @@ title = "Your Computer, My Function: The Ultimate Code Swap!"
 description = "Imagine running a function on your computer that someone else wrote. Sound impossible? With RPC, it's a reality! Let's explore this cool tech together!"
 date = 2024-10-04T13:54:33+05:30
 draft = false
-categories = ["Projects","Networking", "Distributed Systems", "Software Development", "Cloud Computing", "Programming Concpets"]
+categories = ["Projects","Networking", "Distributed Systems", "Software Development", "Cloud Computing", "Programming Concepts"]
 tags = ["RPC", "Client Server Architecture", "Python", "Remote Function Execution", "Inter-Process Communication"]
 +++
 
@@ -24,12 +24,12 @@ In this post, we’ll unravel the magic of RPC, exploring its details and showca
 
 Let's break it down.
 
-1. We write code in various programming languages to perform tasks, which we then organise into smaller and simpler functions that perform specific tasks.
+1. We write code in various programming languages to perform tasks, which we then organize into smaller and simpler functions that perform specific tasks.
 The only caveat is that the functions are to be called in the main function for execution.
 
-2. When the number of functions increase, we group these functions into different files based on thier usage context and import those functions to the required files for execution.
+2. When the number of functions increase, we group these functions into different files based on their usage context and import those functions to the required files for execution.
 
-3. But what if we have functions that requires more cpu cores and memory than what we currently have?
+3. But what if we have functions that requires more CPU cores and memory than what we currently have?
 
 This is where **RPC** comes to the scene, enabling us to run the function on a different computer and get the output on our system
 
@@ -111,7 +111,7 @@ Places Where RPC is Used
 
 ### Thinking through
 
-1. Creating a script named server.py (You can name it anyting you want.) that binds to a specific hostname:port (example: locahost:1331). This is the server that'll listen for requests.
+1. Creating a script named server.py (You can name it anything you want.) that binds to a specific hostname:port (example: localhost:1331). This is the server that'll listen for requests.
 We can call this RPC Server.
     - We can use **socket** module for this purpose.
 
@@ -142,7 +142,7 @@ We can call this RPC Server.
 
 2. We need a format using which the request and response will transfer.
 Let's use **json** module (JavaScript Object Notation).
-    - We need to encode server's reponse (Function output) and decode client's request (Function arguements/parameters).
+    - We need to encode server's response (Function output) and decode client's request (Function arguments/parameters).
 
     ```python
     # Function to handle client connections and execute requested methods.
@@ -323,14 +323,14 @@ We need to encode the request and decode the response to interpret the json file
 
 ### Running scripts
 
-After writting those python scripts, you're left to do nothing but to run them.
+After writing those python scripts, you're left to do nothing but to run them.
 First run the server.py using `python server.py` or `python3 server.py`.
 Then run the client.py using `python client.py` or `python3 client.py` and enjoy the output.
-make sure to run them in different terminals cause the server will be continuously listening to **losthost:1331**.
+Make sure to run them in different terminals cause the server will be continuously listening to **localhost:1331**.
 
 ### Project details
 
 Make sure to checkout the project for some additional goodies inside
-[Github: edu-rpc](https://github.com/subhamc88/edu-rpc)
+[GitHub: edu-rpc](https://github.com/subhamc88/edu-rpc)
 
-And if you want to explore more exciting projects then follow me on [Github](https://github.com/subhamc88).
+And if you want to explore more exciting projects then follow me on [GitHub](https://github.com/subhamc88).
