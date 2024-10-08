@@ -3,22 +3,8 @@ title = 'Discovering Terminals'
 description = "A Beginner's Guide to What They Are and How They Power Your Computer"
 date = 2024-09-25T07:32:59+05:30
 draft = false
-categories = [
-    "User Interfaces",
-    "Software Development",
-    "Productivity Tools",
-    "Tech Tips",
-    "Computer Science"
-]
-tags = [
-    "Terminal",
-    "CLI",
-    "Systems",
-    "Tools",
-    "Productivity",
-    "Tech Tips",
-    "Software"
-]
+categories = ["User Interfaces","Software Development","Productivity Tools","Tech Tips","Computer Science"]
+tags = ["Terminal","CLI","Systems","Tools","Productivity","Tech Tips","Software"]
 [cover]
 image = "images/computer/gnome-terminal-for-linux.png"
 alt = "Gnome terminal"
