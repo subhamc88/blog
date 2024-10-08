@@ -11,8 +11,8 @@ markup:
   highlight:
     anchorLineNos: false
     codeFences: true
-    style: catppuccin-mocha
-    tabWidth: 4
+    style: solarized-dark
+    tabWidth: 2
 
   defaultMarkdownHandler: goldmark
   goldmark:
