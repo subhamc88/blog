@@ -63,6 +63,7 @@ jobs:
 
       - name: Install Node.js dependencies with pnpm
         run: pnpm install --frozen-lockfile
+        working-directory: ./subdirectory # <- Change this to the correct directory if necessary
         if: steps.pnpm-cache.outputs.cache-hit != 'true'
 
       - name: Cache Hugo build output
