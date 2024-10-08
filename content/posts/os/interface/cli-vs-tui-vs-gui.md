@@ -8,7 +8,6 @@ tags = ["CLI","TUI","GUI","User Interfaces","Command-Line Interface","Text-Based
 [cover]
 image = "images/computer/interface.jpg"
 alt = "Computer interface"
-
 +++
 
 ## Introduction
