@@ -6,8 +6,6 @@ draft = false
 categories= ['Tech Tutorials', 'Software Development']
 tags= ['LSP', 'Coding', 'Snippets','Tools', 'Productivity']
 [cover]
-image = "images/computer/gnome-terminal-for-linux.png"
-alt = "Gnome terminal"
 +++
 
 Most of you are using code editors like VSCode or IDEs like PyCharm for coding.
