@@ -45,7 +45,7 @@ Despite its simplicity, it offers a high level of control and efficiency.
 
 - **Bash (Unix/Linux)**: A popular shell used in Unix-based systems.
 - **Command Prompt (Windows)**: The default CLI for Windows.
-- **PowerShell (Windows)**: An advanced CLI for system administration with scripting capabilities.
+- **Power Shell (Windows)**: An advanced CLI for system administration with scripting capabilities.
 
 ### When to Use CLI
 
@@ -64,7 +64,7 @@ It provides a more organized text-based environment with interactive elements li
 ### Key Features of TUI
 
 - **Structured Layout**: Offers a more organized text-based interface with menus and forms.
-- **Interactive Components**: Includes buttons, dropdowns, and other interactive elements for better user interaction.
+- **Interactive Components**: Includes buttons, dropdown menus, and other interactive elements for better user interaction.
 - **Enhanced Usability**: Easier to use and navigate than CLI, with visual feedback and organization.
 - **Moderate Resource Usage**: More resource-intensive than CLI but lighter than GUI.
 

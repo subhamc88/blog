@@ -3,22 +3,8 @@ title = 'Discovering Terminals'
 description = "A Beginner's Guide to What They Are and How They Power Your Computer"
 date = 2024-09-25T07:32:59+05:30
 draft = false
-categories = [
-    "User Interfaces",
-    "Software Development",
-    "Productivity Tools",
-    "Tech Tips",
-    "Computer Science"
-]
-tags = [
-    "Terminal",
-    "CLI",
-    "Systems",
-    "Tools",
-    "Productivity",
-    "Tech Tips",
-    "Software"
-]
+categories = ["User Interfaces","Software Development","Productivity Tools","Tech Tips","Computer Science"]
+tags = ["Terminal","CLI","Systems","Tools","Productivity","Tech Tips","Software"]
 [cover]
 image = "images/computer/gnome-terminal-for-linux.png"
 alt = "Gnome terminal"
@@ -87,7 +73,7 @@ Here's a brief overview of their evolution:
     - **Master Side**: Master side is controlled by the terminal emulator which interacts with the user and the shell.
     - **Slave Side**: Slave side behaves like a traditional terminal, allowing the shell or application to communicate as if it were a physical terminal device.
 
-3. **Shell Integration**: Integration of the terminal emulator with varios shell environments (like Bash, Zsh) for command execution.
+3. **Shell Integration**: Integration of the terminal emulator with various shell environments (like Bash, Zsh) for command execution.
 
 4. **Settings Management**: Allows users to customize preferences including themes, fonts, key bindings and behaviour of the terminal emulator.
 
@@ -162,7 +148,7 @@ Terminal emulators allow users to navigate their file system efficiently. With s
 
 For system administrators, terminal emulators are essential for managing servers and systems remotely. Tasks include:
 
-- Installing software using package managers (like apt, yum, or brew) and updating software and system without any hassel.
+- Installing software using package managers (like apt, yum, or brew) and updating software and system without any hassle.
 - Monitoring system processes and performance for resource management.
 - Managing users and permissions for the operating system.
 
