@@ -15,27 +15,27 @@ You might be aware of some of the features provided by these applications, such 
 
 - **Code Completion**:
 Smart suggestions as you type your code (IntelliSense).
-  
+
 - **Syntax Highlighting**:
 Color-coding different elements of your code.
-  
+
 - **Code Formatting**:
 Automatically formats your code based on styling standards (e.g., Prettier).
-  
+
 - **Integrated Debugging**:
 Allows you to set breakpoints and run through your code, making it easier to identify and fix issues in real time.
-  
+
 - **Linting**:
 Automatically detects errors and potential issues in your code, ensuring that you adhere to coding standards and best practices.
-  
+
 - **Code Actions**:
 Provides quick fixes and refactoring suggestions for code issues.
-  
+
 - **Code Navigation**:
 Quickly jump to function and variable definitions for exploring your code.
 Find references to specific symbols (identifiers) in your codebase.
 
-> **How do you think your code editor provides these features?**  
+> **How do you think your code editor provides these features?**
 > Short answer: **LSP (Language Server Protocol)**.
 
 ## What is LSP?
@@ -164,7 +164,7 @@ Many language servers are open-source and community-driven, allowing for rapid d
    +---------------------------+
 ```
 
-> All the requests and reponses are done using JSON-RPC.  
+> All the requests and reponses are done using JSON-RPC.
 > JSON-RPC (JavaScript Object Notation-Remote Procedure Call
 
 ### Language Server Protocol Overview
@@ -195,9 +195,8 @@ Whether you’re a seasoned programmer or just starting, understanding and utili
 
 To deepen your understanding of the Language Server Protocol (LSP) and its applications, consider exploring the following resources:
 
-1. [Edulsp-go](https://subhamc88.github.io/blog/posts/projects/edulsp/) is designed for beginners who want to learn how Language Server Protocols (LSP) are built using Go.
+1. [Edulsp-go](../../projects/rpc-python.md) is designed for beginners who want to learn how Language Server Protocols (LSP) are built using Go.
 It provides a hands-on approach to understanding the core concepts and implementation details, making it an excellent starting point for anyone interested in creating their own language servers.
 
-2. [Lsp setup in neovim](https://subhamc88.github.io/blog/posts/dev/code=editor/neovim/nvim-lsp-setup) is a comprehensive blog post, I detail how to set up LSP in Neovim, my personal code editor of choice.
 I recommend this resource to every reader, regardless of which code editor you use.
 It not only walks you through the setup process but also enhances your understanding of how each feature of LSP is configured and utilized.
